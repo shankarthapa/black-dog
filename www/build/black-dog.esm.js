@@ -1,0 +1,2 @@
+import{p as t,b as o}from"./p-c627d7ba.js";export{s as setNonce}from"./p-c627d7ba.js";const e=()=>{const s=import.meta.url;const o={};if(s!==""){o.resourcesUrl=new URL(".",s).href}return t(o)};e().then((s=>o([["p-5360e345",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],s)));
+//# sourceMappingURL=black-dog.esm.js.map
