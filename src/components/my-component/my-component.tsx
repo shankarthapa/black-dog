@@ -30,6 +30,7 @@ export class MyComponent {
     return (
       <div class="container">Hello, World! I'm {this.getText()}
         <input type='button' value="WORLD is here" />
+        <input type='button' value="world version 2" />
       </div>
     );
   }
