@@ -25,6 +25,9 @@ export class MyComponent {
   private getText(): string {
     return format(this.first, this.middle, this.last);
   }
+  constructor() {
+    console.log('init of component');
+  }
 
   render() {
     return (

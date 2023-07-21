@@ -1,2 +1,2 @@
-import{p as t,b as o}from"./p-c627d7ba.js";export{s as setNonce}from"./p-c627d7ba.js";const c=()=>{const s=import.meta.url;const o={};if(s!==""){o.resourcesUrl=new URL(".",s).href}return t(o)};c().then((s=>o([["p-bd967cbd",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],s)));
+import{p as t,b as o}from"./p-c627d7ba.js";export{s as setNonce}from"./p-c627d7ba.js";const a=()=>{const s=import.meta.url;const o={};if(s!==""){o.resourcesUrl=new URL(".",s).href}return t(o)};a().then((s=>o([["p-d0a06c37",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],s)));
 //# sourceMappingURL=black-dog.esm.js.map
